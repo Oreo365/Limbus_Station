@@ -1,0 +1,15 @@
+- type: job
+  id: LSSoldato
+  setPreference: true
+  name: ls-job-name-soldato
+  description: ls-job-desc-soldato
+  playTimeTracker: LSJobSoldato
+  startingGear: LSSoldatoGear
+  icon: LSJobIconThumb
+  canBeAntag: false
+
+- type: startingGear
+  id: LSSoldatoGear
+  equipment:
+  storage:
+    back:
