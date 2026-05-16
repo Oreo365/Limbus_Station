@@ -1,0 +1,15 @@
+- type: job
+  id: LSProxy
+  setPreference: true
+  name: ls-job-name-proxy
+  description: ls-job-desc-proxy
+  playTimeTracker: LSJobProxy
+  startingGear: LSProxyGear
+  icon: LSJobIconIndex
+  canBeAntag: false
+
+- type: startingGear
+  id: LSProxyGear
+  equipment:
+  storage:
+    back:
