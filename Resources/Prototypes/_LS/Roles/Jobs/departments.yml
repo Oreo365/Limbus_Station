@@ -6,6 +6,10 @@
   color: "#361E22"
   editorHidden: false
   roles:
+  - LSSoldato
+  - LSCapo
+  - LSConsigliere
+  - LSSottocapo
 
 - type: department
   id: LSIndex
@@ -15,6 +19,10 @@
   color: "#86BADA"
   editorHidden: false
   roles:
+  # - LSWeaver
+  - LSProxy
+  - LSMessenger
+  - LSProselyte
 
   - type: department
   id: LSMiddle
@@ -24,6 +32,10 @@
   color: "#A000C4"
   editorHidden: false
   roles:
+  - LSLittleSibling
+  - LSYoungSibling
+  - LSBigSibling
+  - LSGreatSibling
 
   - type: department
   id: LSRing
@@ -33,3 +45,6 @@
   color: "#FFFFFF"
   editorHidden: false
   roles:
+- LSStudent
+- LSDocent
+- LSMaestro
