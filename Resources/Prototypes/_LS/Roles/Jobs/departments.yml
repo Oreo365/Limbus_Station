@@ -1,0 +1,35 @@
+- type: department
+  id: LSThumb
+  name: department-LSThumb
+  description: department-LSThumb-desc
+  weight: 9
+  color: "#361E22"
+  editorHidden: false
+  roles:
+
+- type: department
+  id: LSIndex
+  name: department-LSIndex
+  description: department-LSIndex-desc
+  weight: 9
+  color: "#86BADA"
+  editorHidden: false
+  roles:
+
+  - type: department
+  id: LSMiddle
+  name: department-LSMiddle
+  description: department-LSMiddle-desc
+  weight: 9
+  color: "#A000C4"
+  editorHidden: false
+  roles:
+
+  - type: department
+  id: LSRing
+  name: department-LSRing
+  description: department-LSRing-desc
+  weight: 9
+  color: "#FFFFFF"
+  editorHidden: false
+  roles:
